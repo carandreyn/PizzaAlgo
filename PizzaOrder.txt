@@ -1,3 +1,5 @@
 1. Decide business to order from
 2. Decide which type of pizza to order
 3. Order pizza with pepperoni
+4. Wait for pizza
+5. Tip the pizza delivery person
